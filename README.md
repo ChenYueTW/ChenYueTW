@@ -53,10 +53,8 @@
 
 **My Repository**
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=KopRobot&show_icons=true&theme=react&show_owner=true"/>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=Swerve&show_icons=true&theme=react&show_owner=true"/>
-</div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=KopRobot&show_icons=true&theme=react&show_owner=true)](https://github.com/ChenYueTW/KopRobot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=Swerve&show_icons=true&theme=react&show_owner=true)](https://github.com/ChenYueTW/Swerve)
 
 ###
 
