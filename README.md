@@ -55,7 +55,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=KopRobot&show_icons=true&theme=react&show_owner=true)](https://github.com/ChenYueTW/KopRobot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=NeoSwerve&show_icons=true&theme=react&show_owner=true)](https://github.com/ChenYueTW/NeoSwerve)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=NeoSwerve&show_icons=true&theme=react&show_owner=true)](https://github.com/ChenYueTW/TalonSwerve)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChenYueTW&repo=TalonSwerve&show_icons=true&theme=react&show_owner=true)](https://github.com/ChenYueTW/TalonSwerve)
 
 ###
 
